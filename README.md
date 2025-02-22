@@ -1,7 +1,6 @@
 ---
 title: "Python for Data Science: A Comprehensive Notebook"
 author: "Shorup Ahmed"
-date: "`r Sys.Date()`"
 output: github_document
 ---
 
